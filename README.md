@@ -10,7 +10,7 @@ Utilizado o Postman para auxilio nos testes e validações manuais.
 
 **Observação:** No documento _Status dos Testes.pdf_ tem detalhes dos testes executados e no arquivo _Orientações para execução do Desafio_v1.pdf_ tem as regras.
 
-## A estrutura do projeto de testes é divida em: 
+## A estrutura do projeto de testes é dividida em: 
 
 * ***Core***: Onde estão as configurações essenciais de acesso a API
 
