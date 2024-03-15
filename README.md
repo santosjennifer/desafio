@@ -1,6 +1,6 @@
 # Objetivo
 
-Desafio de automação de testes de API seguindo as regras do projeto https://github.com/desafios-qa-automacao/desafio-sicredi
+Desafio de automação de testes de API seguindo as regras do projeto [desafios-qa-automacao](https://github.com/desafios-qa-automacao/desafio-sicredi).
 
 Para criação dos testes foi utilizado o Eclipse IDE, projeto com estrutura Maven.
 
